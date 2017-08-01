@@ -1,0 +1,1 @@
+conan upload --all --remote bincrafters Boost.Static_Assert/1.64.0@bincrafters/testing
