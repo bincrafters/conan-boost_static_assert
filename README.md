@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Static_Assert](https://github.com/Boostorg/Static_Assert) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Static_Assert%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Static_Assert%3Abincrafters).
 
 ## For Users: Use this package
 
