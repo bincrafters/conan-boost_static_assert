@@ -8,7 +8,7 @@ class BoostStatic_AssertConan(ConanFile):
     description = "Please visit http://www.boost.org/doc/libs/1_65_1/libs/libraries.htm"
     license = "www.boost.org/users/license.html"
     lib_short_names = ["static_assert"]
-    requires = "Boost.Config/1.65.1@bincrafters/testing"
+    requires = "Boost.Config/1.65.1@bincrafters/stable"
     
     def source(self):
         boostorg_github = "https://github.com/boostorg"
