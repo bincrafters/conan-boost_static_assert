@@ -1,4 +1,5 @@
-from conans import ConanFile, tools, os
+from conans import ConanFile, tools
+import os
 
 class BoostStatic_AssertConan(ConanFile):
     name = "Boost.Static_Assert"
