@@ -8,7 +8,8 @@ class BoostStatic_AssertConan(ConanFile):
     name = "boost_static_assert"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_static_assert"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["static_assert"]
     is_header_only = True
 
